@@ -8,7 +8,9 @@ Features
 ✅ Simple text-based menu for interaction
 
 Technologies Used
+
 Java
+
 Object-Oriented Programming (OOP)
 
 
