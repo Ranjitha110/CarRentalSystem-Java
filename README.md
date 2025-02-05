@@ -23,5 +23,7 @@ java Main
 
 Future Enhancements
 🚀 Add a database for persistent data storage
+
 🚀 Implement a graphical user interface (GUI)
+
 🚀 Add user authentication for better security
