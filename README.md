@@ -1,10 +1,15 @@
 Car Rental System (Java)
+
 A simple Java-based Car Rental System that allows customers to rent and return cars through an interactive console interface.
 
 Features
+
 ✅ Add and manage cars in the rental system
+
 ✅ Rent a car with dynamic price calculation
+
 ✅ Return a car and update availability
+
 ✅ Simple text-based menu for interaction
 
 Technologies Used
@@ -15,6 +20,7 @@ Object-Oriented Programming (OOP)
 
 
 * How to Run
+* 
 1.Clone the repository
   git clone https://github.com/yourusername/CarRentalSystem-Java.git
 cd CarRentalSystem-Java
