@@ -20,12 +20,15 @@ Object-Oriented Programming (OOP)
 
 
 * How to Run
-* 
+ 
 1.Clone the repository
   git clone https://github.com/yourusername/CarRentalSystem-Java.git
+  
 cd CarRentalSystem-Java
+
 2. compile and run the program
   javac Main.java
+
 java Main
 
 
